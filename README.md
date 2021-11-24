@@ -1,6 +1,6 @@
 # Graficos
 
-Criação de gráficos usando a biblioteca matplotlib
+Criação de gráficos usando a biblioteca matplotlib em python
 
 1) Gráfico de linha
 
