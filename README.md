@@ -8,3 +8,4 @@ Criação de gráficos usando a biblioteca matplotlib
 
 2) Gráfico de barra
 
+![Capturar](https://user-images.githubusercontent.com/76793712/143316471-afac9824-f576-4dc3-a101-1612773f7858.PNG)
